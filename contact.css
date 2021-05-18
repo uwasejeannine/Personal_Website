@@ -1,0 +1,40 @@
+label,
+input,
+textarea {
+    display: block;
+}
+
+.cont a {
+    color: yellow;
+    width: 40px;
+    margin: 20px;
+}
+
+.cont {
+    background-color: rgb(8, 8, 77);
+}
+
+.conme {
+    font-size: 70px;
+    color: yellow;
+}
+
+.email {
+    color: yellow;
+    font-size: 20px;
+}
+
+.subject {
+    color: yellow;
+    font-size: 18px;
+}
+
+.mess {
+    color: yellow;
+    font-size: 20px;
+}
+
+.pr2 {
+    color: yellow;
+    font-size: 20px;
+}
